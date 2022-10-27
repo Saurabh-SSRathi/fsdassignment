@@ -9,10 +9,7 @@ public class Question5 {
                         j==0  ||
                         (i+j<=(n-1)/2) ||
                         (i-j>=(n-1)/2)||
-                        i==n-1
-
-                )
-
+                        i==n-1)
                 {
                     System.out.print("*");
                 }
